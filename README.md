@@ -19,6 +19,9 @@ with `-d device-name` omitted.
 ``` # Non-Root
 java -jar revanced-cli-all.jar -a some.apk -c -d device-name -o revanced.apk -b revanced-patches.jar 
 ```
+``` # Root
+java -jar revanced-cli-all.jar -a some.apk -c -d device-name -o revanced.apk -b revanced-patches.jar -e microg-support
+```
 
 <hr>
 
