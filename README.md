@@ -9,7 +9,7 @@ Google colab Re-Vanced Builder.<br>
 2. Upload and copy id for `youtubemusic.apk` from drive.
     * Run the script, more info there.
 3. Wait for the script to build, once you start it. 
-4. Download your Revanced..!
+4. Download your Revanced-Music..!
 
 <hr>
 
